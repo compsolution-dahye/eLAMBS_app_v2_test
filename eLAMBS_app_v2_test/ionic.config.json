@@ -1,6 +1,8 @@
 {
   "name": "eLAMBS_app_v2_test",
-  "app_id": "150254c0",
+  "app_id": "737992f2",
   "type": "ionic-angular",
-  "integrations": {}
+  "integrations": {
+    "cordova": {}
+  }
 }
